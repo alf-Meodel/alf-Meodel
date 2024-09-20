@@ -14,7 +14,7 @@
 
 <!--   ╱╲╱╳╲╱╲ -->
 <!--   title  -->
-<h2 align="left"> &nbsp;&nbsp;&nbsp;╱╳╲ Technologies ╱╳╲ <h2/>
+<h2 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;╱╳╲ Technologies ╱╳╲ <h2/>
 
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -29,7 +29,7 @@
   
 
 
-<h2 align="right"> ıllıllııllıllııllıllı Tools ıllıllııllıllııllıllı <h2/>
+<h2 align="right"> llııllıllııllıllı Tools ıllıllııllıllııll &nbsp;&nbsp;<h2/>
  <div>
   <p align="right">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> -->
@@ -68,6 +68,17 @@ Here’s one of my latest FIRST PROMO tracks that you can listen to:
 </div>
 
 
-## Where to Find Me 🌍
-- GitHub: [YourGitHub](https://github.com/yourusername)
-- YouTube: [My YouTube Channel](https://www.youtube.com/c/yourchannel)
+## Where to Find Me 🙀 ? 
+
+<p align="center">
+  <!-- Mail -->
+  <a href="mailto:alf.meodel@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" width="40" height="40"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/meodel/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
