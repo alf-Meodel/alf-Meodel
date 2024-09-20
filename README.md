@@ -12,12 +12,22 @@
 ## My Projects
 
 ### Music 🎧
-Here’s one of my latest tracks that you can listen to:
-[![My Music](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+Here’s one of my latest FIRST PROMO tracks that you can listen to:
 
-### Video Content 🎥
-I also create video content, like this one:
-[![My Video Content](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=OjHEztVjVTw" target="_blank">
+      <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
+  </a>
+  
+  <a href="https://www.youtube.com/watch?v=SecondVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/SecondVideoID/maxresdefault.jpg" alt="Second Music" width="300"/>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=ThirdVideoID" target="_blank">
+      <img src="https://img.youtube.com/vi/ThirdVideoID/maxresdefault.jpg" alt="Third Music" width="300"/>
+  </a>
+</div>
+
 
 ## Where to Find Me 🌍
 - GitHub: [YourGitHub](https://github.com/yourusername)
