@@ -1,4 +1,4 @@
-# Hello and welcome to my code space 🖥️📀
+# Hello and welcome to my code space 🖥️📀🔰☄️🌈📍📈🏷️🔖📲📱📞🔥🎨🧨💣🙀😼🐱🎵🎹🎞️📸🎸🎧
 
 - 🔭 I’m currently working on NextJS/3D best practices 
 - 🌱 I’m currently learning ...
