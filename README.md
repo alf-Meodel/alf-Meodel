@@ -4,9 +4,19 @@
 
 🔥 I’m currently working on NextJS/3D best practices
 
-- ## Technologies & Tools
+## About Me
 
-<p align="left">
+- 🖥️ **Application Designer** and **3D Web Designer** with a passion for creating innovative digital experiences.
+- 🎹 **Music creator** and **video content maker**, I express myself through various artistic mediums.
+- 🚀 A fan of **drones** and passionate about technology, I love exploring new ways to interact with the world.
+- 🌈 When I'm not coding, I'm thinking about how to code better.
+
+
+<!--   ╱╲╱╳╲╱╲ -->
+<!--   title  -->
+<h2 align="left"> &nbsp;&nbsp;&nbsp;╱╳╲ Technologies ╱╳╲ <h2/>
+
+  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
@@ -15,6 +25,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
 </p>
 
+
+  
+
+
+<h2 align="right"> ıllıllııllıllııllıllı Tools ıllıllııllıllııllıllı <h2/>
+ <div>
   <p align="right">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
@@ -25,14 +41,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
   
 </p>
+</div>
 
-
-## About Me
-
-- 🖥️ **Application Designer** and **3D Web Designer** with a passion for creating innovative digital experiences.
-- 🎹 **Music creator** and **video content maker**, I express myself through various artistic mediums.
-- 🚀 A fan of **drones** and passionate about technology, I love exploring new ways to interact with the world.
-- 🌈 When I'm not coding, I'm exploring new ways to create a better world in my own way.
 
 ## My Projects
 
@@ -44,6 +54,8 @@ Here’s one of my latest FIRST PROMO tracks that you can listen to:
       <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
   </a>
   
+<!-- 
+
   <a href="https://www.youtube.com/watch?v=SecondVideoID" target="_blank">
       <img src="https://img.youtube.com/vi/SecondVideoID/maxresdefault.jpg" alt="Second Music" width="300"/>
   </a>
@@ -51,6 +63,8 @@ Here’s one of my latest FIRST PROMO tracks that you can listen to:
   <a href="https://www.youtube.com/watch?v=ThirdVideoID" target="_blank">
       <img src="https://img.youtube.com/vi/ThirdVideoID/maxresdefault.jpg" alt="Third Music" width="300"/>
   </a>
+
+-->
 </div>
 
 
