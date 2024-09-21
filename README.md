@@ -2,7 +2,7 @@
 
 <!-- 🖥️📀🔰☄️🌈📍📈🏷️🔖📲📱📞🔥🎨🧨💣🙀😼🐱🎵🎹🎞️📸🎸🎧 -->
 
-🔥 Currently exploring NextJS and 3D development, with a focus on secure application best practices and Git conventions.
+Currently exploring NextJS and 3D development, with a focus on secure application best practices and Git conventions.
 
 ## About Me
 
@@ -44,7 +44,7 @@
 </div>
 
 
-<h2 align="center">  ╱╲╱╳╲╱╲ Videos  ╱╲╱╳╲╱╲ &nbsp;&nbsp;<h2/>
+<h2 align="center">  ★・・・・・ Videos ・・・・・★ &nbsp;&nbsp;<h2/>
 
 
 <h2 align="left"> ııllıllı Creative Inspirations ıllıllıı  &nbsp;&nbsp;<h2/>
@@ -68,27 +68,27 @@
 -->
 </div>
 
-<h2 align="center"> Contact/Follow  <h2/>
+<h2 align="center"> ★・・・・・ Contact/Follow ・・・・・★ <h2/>
 
 <p align="center">
   <!-- Mail -->
   <a href="mailto:alf.meodel@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Email" width="60" height="60"/>
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/meodel/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
   
   <!-- YouTube -->
   <a href="https://youtube.com/@meodel4014?feature=shared" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="60" height="60"/>
   </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/alf_meodel/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
 </p>
 
