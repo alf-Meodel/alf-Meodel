@@ -1,8 +1,8 @@
-# Hello and welcome to my code space 🔥
+# Hello and welcome to my coding space 🔥
 
 <!-- 🖥️📀🔰☄️🌈📍📈🏷️🔖📲📱📞🔥🎨🧨💣🙀😼🐱🎵🎹🎞️📸🎸🎧 -->
 
-🔥 Currently searching on NextJS/3D mindful of use secure applicationbest practices and git conventions,
+🔥 Currently exploring NextJS and 3D development, with a focus on secure application best practices and Git conventions.
 
 ## About Me
 
@@ -33,12 +33,12 @@
  <div>
   <p align="right">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
   
 </p>
 </div>
@@ -68,7 +68,7 @@
 -->
 </div>
 
-<h2 align="left"> 📍 Where to Find Me  ?  ıllıllııllıllııll &nbsp;&nbsp;<h2/>
+<h2 align="center"> Contact/Follow  <h2/>
 
 <p align="center">
   <!-- Mail -->
@@ -82,8 +82,13 @@
   </a>
   
   <!-- YouTube -->
-  <a href="https://www.youtube.com/c/YOURCHANNELNAME" target="_blank">
+  <a href="https://youtube.com/@meodel4014?feature=shared" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/alf_meodel/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
