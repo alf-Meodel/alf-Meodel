@@ -44,12 +44,13 @@
 </div>
 
 
-## My Projects
+<h2 align="center">  ╱╲╱╳╲╱╲ Videos  ╱╲╱╳╲╱╲ &nbsp;&nbsp;<h2/>
 
-### Music 🎧
-Here’s one of my latest FIRST PROMO tracks that you can listen to:
 
-<div align="center">
+<h2 align="left"> ııllıllı Creative Inspirations ıllıllıı  &nbsp;&nbsp;<h2/>
+<!-- Here’s one of my latest FIRST PROMO tracks that you can listen to: -->
+
+<div align="left">
   <a href="https://www.youtube.com/watch?v=OjHEztVjVTw" target="_blank">
       <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
   </a>
@@ -67,8 +68,7 @@ Here’s one of my latest FIRST PROMO tracks that you can listen to:
 -->
 </div>
 
-
-## 📍 Where to Find Me  ? 
+<h2 align="left"> 📍 Where to Find Me  ?  ıllıllııllıllııll &nbsp;&nbsp;<h2/>
 
 <p align="center">
   <!-- Mail -->
@@ -79,6 +79,11 @@ Here’s one of my latest FIRST PROMO tracks that you can listen to:
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/meodel/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/YOURCHANNELNAME" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
 </p>
 
