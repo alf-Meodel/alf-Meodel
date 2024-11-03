@@ -49,7 +49,7 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
   </a>
 
   <a href="https://lf-portefolio-1cf6027222ef.herokuapp.com/?fbclid=IwY2xjawGUdPxleHRuA2FlbQIxMAABHbfWuWYLDOmoI0Aeh31eEXJTEydNwXoZZW2hHtAfqTuAqEQTwExi4og6Bw_aem_0TdROn6Lwxgd_CQx13WMxA" target="_blank">
-      <img src="/alf-Meodel/img/pf.png" alt="pf" width="300"/>
+      <img src="./img/pf.png" alt="pf" width="300"/>
   </a>
 
   <!-- <a href="https://www.youtube.com/watch?v=ThirdVideoID" target="_blank">
