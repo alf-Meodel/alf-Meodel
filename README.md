@@ -11,7 +11,6 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
 - 🚀 A fan of **drones** and passionate about technology, I love exploring new ways to interact with the world.
 - 🌈 When I'm not coding, I'm thinking about how to code better.
 
-
 <!--   ╱╲╱╳╲╱╲ -->
 <!--   title  -->
 <h2 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;╱╳╲ Technologies ╱╳╲ <h2/>
@@ -24,10 +23,6 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
 </p>
-
-
-  
-
 
 <h2 align="right"> llııllıllııllıllı Tools ıllıllııllıllııll &nbsp;&nbsp;<h2/>
  <div>
@@ -43,9 +38,7 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
 </p>
 </div>
 
-
 <h2 align="center">  ★・・・・・ Videos ・・・・・★ &nbsp;&nbsp;<h2/>
-
 
 <h2 align="left"> ııllıllı Creative Inspirations ıllıllıı  &nbsp;&nbsp;<h2/>
 <!-- Here’s one of my latest FIRST PROMO tracks that you can listen to: -->
@@ -54,18 +47,15 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
   <a href="https://www.youtube.com/watch?v=OjHEztVjVTw" target="_blank">
       <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
   </a>
-  
-<!-- 
 
-  <a href="https://www.youtube.com/watch?v=SecondVideoID" target="_blank">
-      <img src="https://img.youtube.com/vi/SecondVideoID/maxresdefault.jpg" alt="Second Music" width="300"/>
+  <a href="https://lf-portefolio-1cf6027222ef.herokuapp.com/?fbclid=IwY2xjawGUdPxleHRuA2FlbQIxMAABHbfWuWYLDOmoI0Aeh31eEXJTEydNwXoZZW2hHtAfqTuAqEQTwExi4og6Bw_aem_0TdROn6Lwxgd_CQx13WMxA" target="_blank">
+      <img src="/alf-Meodel/img/pf.png" alt="pf" width="300"/>
   </a>
 
-  <a href="https://www.youtube.com/watch?v=ThirdVideoID" target="_blank">
+  <!-- <a href="https://www.youtube.com/watch?v=ThirdVideoID" target="_blank">
       <img src="https://img.youtube.com/vi/ThirdVideoID/maxresdefault.jpg" alt="Third Music" width="300"/>
-  </a>
+  </a> -->
 
--->
 </div>
 
 <h2 align="center"> ★・・・・・ Contact/Follow ・・・・・★ <h2/>
@@ -91,4 +81,3 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
 </p>
-
