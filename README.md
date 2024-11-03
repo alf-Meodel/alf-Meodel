@@ -43,7 +43,7 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
 <h2 align="left"> ııllıllı Creative Inspirations ıllıllıı  &nbsp;&nbsp;<h2/>
 <!-- Here’s one of my latest FIRST PROMO tracks that you can listen to: -->
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=OjHEztVjVTw" target="_blank">
       <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
   </a>
