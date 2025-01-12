@@ -11,6 +11,13 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
 - 🚀 A fan of **drones** and passionate about technology, I love exploring new ways to interact with the world.
 - 🌈 When I'm not coding, I'm thinking about how to code better.
 
+## Comment me joindre
+- 📩 Mail : alf.meodel@gmail.com
+- 🌐 LinkedIn : [linkedin.com/in/messaoud-houri](https://www.linkedin.com/in/meodel/)
+
+## 🤝 Connectons-nous !
+Je suis ouvert à la collaboration sur des projets et des idées passionnantes. N'hésitez pas à me contacter !
+
 <!--   ╱╲╱╳╲╱╲ -->
 <!--   title  -->
 <h2 align="left"> &nbsp;&nbsp;&nbsp;&nbsp;╱╳╲ Technologies ╱╳╲ <h2/>
