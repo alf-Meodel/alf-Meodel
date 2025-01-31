@@ -16,7 +16,7 @@ Currently exploring NextJS and 3D development, with a focus on secure applicatio
 
 ## How to Reach Me
 - 📩 Mail: alf.meodel@gmail.com
-- 🌐 LinkedIn: linkedin.com/in/messaoud-houri
+- 🌐 LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/meodel/)
 
 ## 🎉 Let’s Connect!
 I’m open to collaborating on exciting projects and ideas. Feel free to reach out!
