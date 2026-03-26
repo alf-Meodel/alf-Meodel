@@ -2,7 +2,7 @@
 
 <!-- 🖥️📀🔰☄️🌈📍📈🏷️🔖📲📱📞🔥🎨🧨💣🙀😼🐱🎵🎹🎞️📸🎸🎧 -->
 
-Currently exploring NextJS and 3D development, with a focus on secure application best practices and Git conventions.
+Currently exploring ReactJS and 3D development, with a focus on secure application best practices and Git conventions.
 
 ## About Me
 
