@@ -70,7 +70,7 @@ I’m open to collaborating on exciting projects and ideas. Feel free to reach o
     <img src="https://img.youtube.com/vi/OjHEztVjVTw/maxresdefault.jpg" alt="My Music" width="300"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://lf-portefolio-1cf6027222ef.herokuapp.com/?fbclid=IwY2xjawGUdPxleHRuA2FlbQIxMAABHbfWuWYLDOmoI0Aeh31eEXJTEydNwXoZZW2hHtAfqTuAqEQTwExi4og6Bw_aem_0TdROn6Lwxgd_CQx13WMxA" target="_blank">
+  <a href="https://cvsculpt.vercel.app/" target="_blank">
     <img src="./img/pf.png" alt="pf" width="300"/>
   </a>
 </div>
